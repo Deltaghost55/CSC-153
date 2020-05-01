@@ -1,0 +1,58 @@
+// Rooms Class
+        // Fields
+        private string _room;
+
+        // Constructors
+            // Default
+        public Room()
+        {
+            Rooms = "";
+        }
+            // Custom
+        public Room(string room)
+        {
+            Rooms = room;
+        }
+
+        // Full Property
+        public string Rooms
+        {
+            get
+            {
+                return _room;
+            }
+            set
+            {
+                _room = value;
+            }
+        }
+// Items Class
+	public class Item
+    {
+        // Fields
+        private string _item;
+
+        // Constructors
+        // Default
+        public Item()
+        {
+            Items = "";
+        }
+        // Custom
+        public Item(string item)
+        {
+            Items = item;
+        }
+
+        // Full Property
+        public string Items
+        {
+            get
+            {
+                return _item;
+            }
+            set
+            {
+                _item = value;
+            }
+        }

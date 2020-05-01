@@ -1,0 +1,15 @@
+C:\Users\beharrym1753\source\repos\Employees\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\beharrym1753\source\repos\Employees\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\beharrym1753\source\repos\Employees\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\beharrym1753\source\repos\Employees\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\beharrym1753\source\repos\Employees\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\beharrym1753\source\repos\Employees\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\bin\Debug\EmployeeLibrary.dll
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\bin\Debug\EmployeeLibrary.pdb
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\beharrym1753\Desktop\Employees\ConsoleUI\obj\Debug\ConsoleUI.pdb

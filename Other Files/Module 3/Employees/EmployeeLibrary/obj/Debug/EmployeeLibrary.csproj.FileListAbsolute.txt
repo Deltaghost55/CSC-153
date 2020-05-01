@@ -1,0 +1,5 @@
+C:\Users\beharrym1753\Desktop\Employees\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\beharrym1753\Desktop\Employees\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\beharrym1753\Desktop\Employees\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojAssemblyReference.cache
+C:\Users\beharrym1753\Desktop\Employees\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\beharrym1753\Desktop\Employees\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

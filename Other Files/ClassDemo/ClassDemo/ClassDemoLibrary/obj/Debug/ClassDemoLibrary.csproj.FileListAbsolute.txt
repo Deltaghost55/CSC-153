@@ -1,0 +1,23 @@
+C:\Users\Thor\source\repos\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.dll
+C:\Users\Thor\source\repos\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.pdb
+C:\Users\Thor\source\repos\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.csprojAssemblyReference.cache
+C:\Users\Thor\source\repos\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.dll
+C:\Users\Thor\source\repos\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.pdb
+C:\Users\thorb\Downloads\ClassDemo\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.dll
+C:\Users\thorb\Downloads\ClassDemo\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.pdb
+C:\Users\thorb\Downloads\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.csprojAssemblyReference.cache
+C:\Users\thorb\Downloads\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thorb\Downloads\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.dll
+C:\Users\thorb\Downloads\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.pdb
+C:\Users\thorb\Desktop\ClassDemo\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.dll
+C:\Users\thorb\Desktop\ClassDemo\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.pdb
+C:\Users\thorb\Desktop\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.csprojAssemblyReference.cache
+C:\Users\thorb\Desktop\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thorb\Desktop\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.dll
+C:\Users\thorb\Desktop\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.pdb
+C:\Users\matt4\Desktop\FTCC2020SP\2020SP C# Programming (CSC-153-0001)\ClassDemo\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.dll
+C:\Users\matt4\Desktop\FTCC2020SP\2020SP C# Programming (CSC-153-0001)\ClassDemo\ClassDemo\ClassDemoLibrary\bin\Debug\ClassDemoLibrary.pdb
+C:\Users\matt4\Desktop\FTCC2020SP\2020SP C# Programming (CSC-153-0001)\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.csprojAssemblyReference.cache
+C:\Users\matt4\Desktop\FTCC2020SP\2020SP C# Programming (CSC-153-0001)\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matt4\Desktop\FTCC2020SP\2020SP C# Programming (CSC-153-0001)\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.dll
+C:\Users\matt4\Desktop\FTCC2020SP\2020SP C# Programming (CSC-153-0001)\ClassDemo\ClassDemo\ClassDemoLibrary\obj\Debug\ClassDemoLibrary.pdb

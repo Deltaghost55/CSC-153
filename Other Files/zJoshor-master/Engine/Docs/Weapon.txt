@@ -1,0 +1,36 @@
+﻿101
+Club
+Clubs
+A small stick
+0
+1D4
+Blunt
+true
+0
+102
+Dagger
+Daggers
+Short piece of sharp metal
+2
+1D4
+Pierce
+true
+0
+103
+Falchion
+Falchions
+A sword
+75
+1D6
+Slash
+true
+0
+104
+Sai
+Sais
+Wierd looking
+1
+1D4
+Blunt
+true
+0
